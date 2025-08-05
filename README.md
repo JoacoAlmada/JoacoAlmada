@@ -41,8 +41,8 @@ Me considero una persona proactiva, responsable y con una fuerte orientación al
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joacoalmada&locale=es&mode=weekly&theme=react&hide_border=false&border_radius=5&date_format=j/n[Y]" height="130" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joacoalmada&layout=compact&theme=react&langs_count=6&hide_border=false" height="130" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=joacoalmada&show_icons=true&theme=react&hide_border=false&count_private=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joacoalmada&layout=compact&theme=react&langs_count=6&hide_border=false" height="130" alt="top langs" />
 </div>
 
 ###
